@@ -17,7 +17,7 @@ It is built using **HTML5** and **CSS3**
 
 # 📸Thumbnail
 
-![Template_Screenshot](./Screenshot.png)
+![Template_Screenshot]("./Screenshot.png")
 
 # What I learn from this project:
 
